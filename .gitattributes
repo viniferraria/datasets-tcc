@@ -1,3 +1,4 @@
 amazon_reviews_us_Video_Games_v1_00.tsv.gz filter=lfs diff=lfs merge=lfs -text
 Sentiment140[[:space:]]dataset[[:space:]]with[[:space:]]1.6[[:space:]]million[[:space:]]tweets[[:space:]]-[[:space:]]kaggle/README.txt filter=lfs diff=lfs merge=lfs -text
 Sentiment140[[:space:]]dataset[[:space:]]with[[:space:]]1.6[[:space:]]million[[:space:]]tweets[[:space:]]-[[:space:]]kaggle/training.1600000.processed.noemoticon.csv filter=lfs diff=lfs merge=lfs -text
+Amazon-VideoGame-Reviews/amazon_reviews_us_Video_Games_v1_00.tsv filter=lfs diff=lfs merge=lfs -text
